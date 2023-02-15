@@ -1,0 +1,4 @@
+This application works in two parts. First, adding cards can be done through the 'Add Cards from File' or 'Add Cards from Scan'
+buttons on the homepage. Doing so adds the chosen cards into the app's memory and can be cleared with the 'Clear Loaded Cards'
+button or viewed with the 'View Loaded Cards' button. Pressing the 'Create Database' button will take all the card's in
+memory and create a .csv file at the location specified in the 'Output Directory' box.

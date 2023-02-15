@@ -1,0 +1,2 @@
+This app is made to make the databasing of a collection of Magic the Gathering cards easy! It can take in a .txt or a
+properly formatted .csv file and create a spreadsheet of your cards, complete with all the information you'd need.

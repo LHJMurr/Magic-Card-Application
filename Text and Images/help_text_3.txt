@@ -1,0 +1,5 @@
+To add cards through the scanning feature, click on the 'Add Cards from Scan' button on the home page. Then, hold the
+card up to the webcam such that the titlebox is within the displayed rectangle. Once the scan is complete, the detected
+card will be added to the app's memory. If the wrong card is detected simply click the 'Delete Last Card' button to
+remove the added card and rescan. If the camera cannot detect the card you can always write the name in the box marked
+'Manual Entry' and press 'Add Card'

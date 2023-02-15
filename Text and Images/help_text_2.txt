@@ -1,0 +1,3 @@
+Adding from a file is as simple as clicking on the 'Add Cards from File' button. There, you can choose the format of the
+file from either .txt or a previously made .csv file. Finally, copy the directory of the file into the 'Choose Directory'
+box and press 'Add Cards'. This adds all the cards in the file to the app's memory, preparing them to be made into a new file!
